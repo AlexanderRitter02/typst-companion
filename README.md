@@ -1,6 +1,6 @@
 # Typst Companion
 
-A VS Code extension that adds Markdown-like editing niceties **on top of and in addition to** to Nathan Varner's [Typst LSP](https://github.com/nvarner/typst-lsp).
+A VS Code extension that adds Markdown-like editing niceties **on top of and in addition to** to the [Tinymist](https://github.com/Myriad-Dreamin/tinymist) language server for Typst.
 
 ## Features
 
@@ -15,8 +15,8 @@ A VS Code extension that adds Markdown-like editing niceties **on top of and in 
 
 ## Requirements
 
-I *strongly* encourage installing Nathan Varner's [Typst LSP](https://github.com/nvarner/typst-lsp) in addition to this extension for syntax highlighting, error reporting, code completion, and all of Typst LSP's other features. 
-    This extension just adds some small additional features that I missed when using Typst LSP.
+I *strongly* encourage installing [Tinymist](https://github.com/Myriad-Dreamin/tinymist) in addition to this extension for syntax highlighting, error reporting, code completion, and all of Tinymist's other features. 
+    This extension just adds some small additional features that I missed when using Tinymist.
 
 ## Release Notes
 

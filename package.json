@@ -1,7 +1,7 @@
 {
   "name": "typst-companion",
   "displayName": "Typst Companion",
-  "description": "Adds Markdown-like editing niceties on top of Typst LSP.",
+  "description": "Adds Markdown-like editing niceties on top of Tinymist.",
   "version": "0.0.5",
   "author": "Caleb Figgers",
   "publisher": "CalebFiggers",
